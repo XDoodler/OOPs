@@ -10,6 +10,7 @@
 9. Function Overloading
 10. Function Overriding
 11. Pointers (C Programming)
+12. Structures and Unions (C Programming)
 
 
 ## Data Structures (C++ Coding)
@@ -30,6 +31,26 @@
 2. Divide & Conquer
 3. Greedy
 4. Bit manipulation
+
+### Classical Problems
+
+1. Floyd Warshal
+2. Dijkstra
+3. Bellman Ford
+4. LCS
+5. LIS
+6. Z-algorithm
+7. 0/1 Knapsack & Fractional Knapsack
+8. Maximum Subset Sum
+9. Maximum Subarray sum
+10. Coin Change Problem
+11. Lowest Common Ancestor(Tree)
+12. Segment Tree Lazy propagation
+13. Dynamic programming in Trees
+14. BFS
+15. DFS
+16. Inorder, Preorder, Postorder
+
 
 ## OS
 
